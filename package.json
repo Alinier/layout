@@ -1,0 +1,17 @@
+{
+  "name": "flexable-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "gulp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "gulp css"
+  },
+  "author": "g8up",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^7.0.0",
+    "postcss-px-to-viewport": "0.0.3"
+  }
+}
